@@ -64,7 +64,7 @@ export default function Consultation() {
               <h3 style={{ fontFamily: "'Lora',serif", fontSize: "1.3rem", marginBottom: 14 }}>Prefer to message us directly?</h3>
               <div className="contact-list">
                 <a href="viber://chat?number=959958946184" className="crow"><span className="ci" style={{ background: "#7360F2" }}><Viber /></span><div><b>Viber</b><span>+95 9 958 946184</span></div></a>
-                <a href="#" className="crow"><span className="ci" style={{ background: "#0084FF" }}><Messenger /></span><div><b>Messenger</b><span>Message our Facebook page</span></div></a>
+                <a href="https://m.me/61580793884076" target="_blank" rel="noopener" className="crow"><span className="ci" style={{ background: "#0084FF" }}><Messenger /></span><div><b>Messenger</b><span>Message our Facebook page</span></div></a>
                 <a href="https://wa.me/601116714354" className="crow"><span className="ci" style={{ background: "#25D366" }}><WhatsApp /></span><div><b>WhatsApp (Malaysia)</b><span>+60 11 1671 4354</span></div></a>
                 <a href="mailto:studygatewayasia@gmail.com" className="crow"><span className="ci" style={{ background: "#A4151A" }}><Mail size={22} /></span><div><b>Email</b><span>studygatewayasia@gmail.com</span></div></a>
               </div>

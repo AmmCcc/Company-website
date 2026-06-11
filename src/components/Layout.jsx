@@ -37,7 +37,7 @@ export default function Layout({ children }) {
             <span><Mail size={14} /> studygatewayasia@gmail.com</span>
             <span><Phone size={14} /> +95 9 958 946184</span>
           </div>
-          <div className="tb-right"><a href="#">Facebook</a><a href="#">TikTok</a></div>
+          <div className="tb-right"><a href="https://www.facebook.com/profile.php?id=61580793884076" target="_blank" rel="noopener">Facebook</a><a href="https://www.tiktok.com/@studygateway.asia" target="_blank" rel="noopener">TikTok</a></div>
         </div>
       </div>
 
@@ -79,8 +79,8 @@ export default function Layout({ children }) {
           <div className="foot-bottom">
             <span>© 2025 StudyGateway Asia. All rights reserved.</span>
             <div className="socials">
-              <a href="#" aria-label="Facebook"><svg viewBox="0 0 24 24"><path d="M14 9h3V6h-3c-2 0-3 1.3-3 3v2H8v3h3v7h3v-7h2.5l.5-3H14V9.5c0-.3.2-.5.5-.5Z" /></svg></a>
-              <a href="#" aria-label="TikTok"><svg viewBox="0 0 24 24"><path d="M16 3c.3 2 1.7 3.5 3.7 3.8v2.7c-1.4 0-2.7-.4-3.7-1.1V15a5 5 0 1 1-5-5v2.8a2.2 2.2 0 1 0 2 2.2V3h3Z" /></svg></a>
+              <a href="https://www.facebook.com/profile.php?id=61580793884076" target="_blank" rel="noopener" aria-label="Facebook"><svg viewBox="0 0 24 24"><path d="M14 9h3V6h-3c-2 0-3 1.3-3 3v2H8v3h3v7h3v-7h2.5l.5-3H14V9.5c0-.3.2-.5.5-.5Z" /></svg></a>
+              <a href="https://www.tiktok.com/@studygateway.asia" target="_blank" rel="noopener" aria-label="TikTok"><svg viewBox="0 0 24 24"><path d="M16 3c.3 2 1.7 3.5 3.7 3.8v2.7c-1.4 0-2.7-.4-3.7-1.1V15a5 5 0 1 1-5-5v2.8a2.2 2.2 0 1 0 2 2.2V3h3Z" /></svg></a>
             </div>
           </div>
         </div>
